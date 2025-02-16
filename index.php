@@ -5,6 +5,8 @@ require 'includes/header.php';
 
 
 
+
+
 <div id="myCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -13,7 +15,7 @@ require 'includes/header.php';
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/img/trc.avif" alt="" style="background-size: contain;">
+      <div class="foss devv"></div>
       <div class="container">
         <div class="carousel-caption text-start">
           <h1>Example headline.</h1>
@@ -24,9 +26,7 @@ require 'includes/header.php';
     </div>
 
     <div class="carousel-item">
-      <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-        <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
-      </svg>
+    <div class="foss dev2"></div>
       <div class="container">
         <div class="carousel-caption">
           <h1>Another example headline.</h1>
@@ -36,9 +36,7 @@ require 'includes/header.php';
       </div>
     </div>
     <div class="carousel-item">
-      <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false">
-        <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
-      </svg>
+    <div class="foss dev3"></div>
       <div class="container">
         <div class="carousel-caption text-end">
           <h1>One more for good measure.</h1>
