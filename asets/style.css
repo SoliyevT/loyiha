@@ -195,3 +195,10 @@ body {
 .dev3{
   background-image: url(/img/trc3.avif);
 }
+
+
+.trc {
+  width: 140px;
+  height: 140px;
+  border-radius: 140px;
+}
