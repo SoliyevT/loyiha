@@ -72,23 +72,23 @@ require 'includes/header.php';
       <div>
         <img class="trc" src="/img/deere.jpg" alt="">
       </div>
-      <h2 class="fw-normal">Heading</h2>
-      <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+      <h2 class="fw-normal">John Deere</h2>
+      <p>John Deere's Commitment to U.S. Manufacturing</p>
       <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
       <div>
         <img class="trc" src="/img/holland.jpg" alt="">
       </div>
-      <h2 class="fw-normal">Heading</h2>
-      <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+      <h2 class="fw-normal">New Holland</h2>
+      <p>Welcome to the New Holland world: choose your sector.</p>
       <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
     <div>
         <img class="trc" src="/img/class.jpg" alt="">
       </div>
-      <h2 class="fw-normal">Heading</h2>
+      <h2 class="fw-normal">Claas</h2>
       <p>And lastly this, the third column of representative placeholder content.</p>
       <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
     </div><!-- /.col-lg-4 -->
